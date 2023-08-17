@@ -1,2 +1,2 @@
 -- List all values
-SELECT * FROM employees;
+SELECT * FROM first_table;
