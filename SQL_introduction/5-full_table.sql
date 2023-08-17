@@ -1,2 +1,2 @@
 -- Show description of table
-SHOW COLUMNS FROM employees;
+SHOW CREATE TABLE first_table;
